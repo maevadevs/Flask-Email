@@ -1,0 +1,2 @@
+flask-mail
+python-dotenv
